@@ -1,6 +1,6 @@
 module github.com/pauljamescleary/gomin
 
-go 1.20
+go 1.22.5
 
 require (
 	github.com/georgysavva/scany/v2 v2.0.0
